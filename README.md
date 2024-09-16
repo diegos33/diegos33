@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Diego, I'm currently working on setting up my GitHub profile. I'm currently learning how to setup my GitHub profile. I'm looking to collaborate on many things. I'm looking for help with what I'm going to be doing in the upcoming weeks. Ask me about anything. Fun fact: I have a cat.
+My name is Diego, I'm currently working on setting up my GitHub profile. I'm currently learning how to setup my GitHub profile. I'm looking to collaborate on many things. I'm looking for help with what I'm going to be doing in the upcoming weeks. Ask me about anything. Fun fact: I'm setting up my GitHub profile.
 <!--
 **diegos33/diegos33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
